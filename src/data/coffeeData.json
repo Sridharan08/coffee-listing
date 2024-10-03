@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "image": "/images/espresso.avif",
+        "price": 290.50, 
+        "rating": 4.8,
+        "votes": 120,
+        "isPopular": true,
+        "isAvailable": true
+    },
+    {
+        "id": 2,
+        "name": "Cappuccino",
+        "image": "/images/cappuccino.png",
+        "price": 332.00,  
+        "rating": 4.5,
+        "votes": 90,
+        "isPopular": false,
+        "isAvailable": true
+    },
+    {
+        "id": 3,
+        "name": "Latte",
+        "image": "/images/latte.jpg",
+        "price": 373.50,  
+        "rating": 4.6,
+        "votes": 75,
+        "isPopular": true,
+        "isAvailable": false
+    },
+    {
+        "id": 4,
+        "name": "Flat White",
+        "image": "/images/flatwhite.jpg",
+        "price": 350.00,  
+        "rating": 4.7,
+        "votes": 60,
+        "isPopular": true,
+        "isAvailable": true
+    },
+    {
+        "id": 5,
+        "name": "Mocha",
+        "image": "/images/mocha.webp",
+        "price": 380.00,  
+        "rating": 4.4,
+        "votes": 80,
+        "isPopular": false,
+        "isAvailable": true
+    },
+    {
+        "id": 6,
+        "name": "Americano",
+        "image": "/images/americano.jpeg",
+        "price": 270.00,  
+        "rating": 4.2,
+        "votes": 110,
+        "isPopular": false,
+        "isAvailable": true
+    },
+    {
+        "id": 7,
+        "name": "Irish Coffee",
+        "image": "/images/irishcoffee.webp",
+        "price": 450.00,  
+        "rating": 4.9,
+        "votes": 95,
+        "isPopular": true,
+        "isAvailable": false
+    },
+    {
+        "id": 8,
+        "name": "Turkish Coffee",
+        "image": "/images/Turkish-coffee.jpg",
+        "price": 300.00,  
+        "rating": 4.1,
+        "votes": 40,
+        "isPopular": false,
+        "isAvailable": true
+    },
+    {
+        "id": 9,
+        "name": "Affogato",
+        "image": "/images/affogato.jpg",
+        "price": 400.00,  
+        "rating": 4.8,
+        "votes": 70,
+        "isPopular": true,
+        "isAvailable": true
+    },
+    {
+        "id": 10,
+        "name": "Cold Brew",
+        "image": "/images/cold-brew.jpg",
+        "price": 350.00,  
+        "rating": 4.5,
+        "votes": 50,
+        "isPopular": true,
+        "isAvailable": true
+    },
+    {
+        "id": 11,
+        "name": "Nitro Coffee",
+        "image": "/images/nitro coffee.webp",
+        "price": 420.00,  
+        "rating": 4.6,
+        "votes": 30,
+        "isPopular": false,
+        "isAvailable": true
+    },
+    {
+        "id": 12,
+        "name": "Ristretto",
+        "image": "/images/ristretto.jpeg",
+        "price": 310.00,  
+        "rating": 4.4,
+        "votes": 65,
+        "isPopular": false,
+        "isAvailable": true
+    }
+]
